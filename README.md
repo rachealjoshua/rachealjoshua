@@ -23,7 +23,7 @@
 
 ## 📫 Contact Me  
 - **Email:** [rachealjoshua877@gmail.com]  
-- **LinkedIn:** [Joshua Racheal LinkedIn |]  
+- **LinkedIn:** [https://www.linkedin.com/in/joshua-racheal]  
 - **GitHub:** [github.com/rachealjoshua](https://github.com/rachealjoshua)  
 
 ---
